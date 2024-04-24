@@ -1,9 +1,11 @@
 while True:
     print ("\033[;33m"+"       CALCULADORA BASICA 1.2c") 
     print (".........................................................")
+    print (".........................................................")
     print (" Tips: Para sacar EL porcentaje de un numero") 
     print (" hay que multiplicar por cero coma -numero de porcentaje-.")
     print (" Por ejemplo sacar el %25: Un NUMERO por 0.25")
+    print (".........................................................")
     print (".........................................................")
     
     comando = input (" -Presionar ENTER para empezar o tipear -salir- para finalizar: ")
